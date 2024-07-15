@@ -15,7 +15,6 @@ This project is a simple implementation of a blockchain using Java, designed to 
 - [Usage](#usage)
 - [Key Concepts](#key-concepts)
 - [Enhancements](#enhancements)
-- [License](#license)
 
 ## Introduction
 
@@ -113,10 +112,3 @@ While this project effectively demonstrates basic blockchain concepts, real-worl
 - More complex consensus algorithms
 - Enhanced security measures
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify any section according to your specific details and requirements.
