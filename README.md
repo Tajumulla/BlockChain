@@ -80,11 +80,11 @@ The `StringUtil` class provides utility functions, particularly for hashing.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone [https://github.com/your-username/your-repository-name.git](https://github.com/Tajumulla/BlockChain.git)
    ```
 2. Navigate to the project directory:
    ```sh
-   cd your-repository-name
+   cd src
    ```
 
 ## Usage
